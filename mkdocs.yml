@@ -15,10 +15,9 @@ extra:
       link: https://discord.gg/F8GfF37GWh
       name: discord 支援伺服器
   consent:
-    title: Cookie consent
+    title: Cookie
     description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
-      as to measure the effectiveness of our documentation and whether users
-      find what they're searching for. With your consent, you're helping us to
-      make our documentation better.
+      我們使用 cookie 來識別您的重複訪問和偏好，以衡量我們文檔的有效性以及用戶是否找到他們正在尋找的東西。徵得您的同意，您正在幫助我們使我們的文檔更好。
 copyright: Copyright &copy; 2021 - 2022 AD
+extra_javascript:
+  - javascripts/extra.js
