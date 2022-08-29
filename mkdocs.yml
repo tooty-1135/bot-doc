@@ -22,5 +22,3 @@ extra:
 copyright: Copyright &copy; 2021 - 2022 AD
 extra_javascript:
   - javascripts/extra.js
-plugins:
-  - glightbox
