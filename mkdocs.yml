@@ -1,5 +1,6 @@
 site_name: "> <"
 theme:
+  language: 'zh-TW'
   name: material
   palette:
     scheme: default
@@ -14,6 +15,8 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/F8GfF37GWh
       name: discord 支援伺服器
+  search:
+    language: 'zh_TW'
   custom_dir: overrides
   consent:
     title: Cookie
