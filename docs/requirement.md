@@ -1,6 +1,6 @@
 # 需求
 嘗試使用指令的時候遇到這樣的錯誤? <br>
-![error_CheckFailure](img/error_checkfailure.png) <br>
+![error_CheckFailure](img/error_money_checkfailure.png) <br>
 別擔心，只是缺少了一些必要條件
 
 ## 使用金錢系統時遇到錯誤
