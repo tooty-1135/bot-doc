@@ -9,6 +9,7 @@ theme:
     language: zh-TW
     font:
       text: Noto Sans Traditional Chinese
+
 extra:
   generator: false
   social:
@@ -27,3 +28,8 @@ extra_javascript:
   - javascripts/extra.js
 markdown_extensions:
   - attr_list
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - toc:
+      permalink: true
