@@ -1,4 +1,5 @@
 site_name: "> <"
+site_url: https://docs.gt-lt.ml/
 theme:
   language: 'zh-TW'
   name: material
