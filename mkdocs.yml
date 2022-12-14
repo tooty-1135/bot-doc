@@ -10,6 +10,8 @@ theme:
     language: zh-TW
     font:
       text: Noto Sans Traditional Chinese
+  features:
+    - navigation.sections
 
 extra:
   generator: false
