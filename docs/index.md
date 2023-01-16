@@ -11,7 +11,7 @@
 &gt; &lt; 是一隻支持斜線指令的機器人，所以，只需要在輸入框裡打上`/`，所有指令都會列出來
 
 ## 還是看不懂?
-可以到我們的 [支援伺服器](https://discord.com/invite/F8GfF37GWh) 提問，當然也可以來這裡聊個天(?
+可以到我們的 [支援伺服器](https://discord.gg/ZRuYxAYF2D) 提問，當然也可以來這裡聊個天(?
 
 ## 哪裡可以邀請?
 [這裡](https://discord.com/api/oauth2/authorize?client_id=881788746222157884&permissions=8&scope=bot%20applications.commands){ .md-button }
